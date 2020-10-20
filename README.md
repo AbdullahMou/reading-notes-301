@@ -3,7 +3,7 @@ this site for 301 - Intermediate Software Development
 
 |NAME|LINK|
 | ---      | ---         |
-|reading note|[read](https://github.com/AbdullahMou/reading-notes)|
+|reading note|[Repo](https://github.com/AbdullahMou/reading-notes)|
 | Responsive Web Design|[read1](https://abdullahmou.github.io/reading-notes/read1)|
 |  JQUERY | [read2](https://abdullahmou.github.io/reading-notes/read2) |
 |Flexbox&Templating|[read3](https://abdullahmou.github.io/reading-notes/read3) |
