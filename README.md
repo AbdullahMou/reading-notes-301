@@ -7,7 +7,7 @@ this site for 301 - Intermediate Software Development
 | Responsive Web Design|[read1](https://abdullahmou.github.io/reading-notes/read1)|
 |  JQUERY | [read2](https://abdullahmou.github.io/reading-notes/read2) |
 |Flexbox&Templating|[read3](https://abdullahmou.github.io/reading-notes/read3) |
-|          |[read4](https://abdullahmou.github.io/reading-notes/read4)  |
+|  CSS GRID |[read4](https://abdullahmou.github.io/reading-notes/read4)  |
 |          |[read5](https://abdullahmou.github.io/reading-notes/read5)|
 |          |[read6](https://abdullahmou.github.io/reading-notes/read6)     |
 |          |[read7](https://abdullahmou.github.io/reading-notes/read7)|
