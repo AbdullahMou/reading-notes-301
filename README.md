@@ -9,8 +9,8 @@ this site for 301 - Intermediate Software Development
 |Flexbox&Templating|[read3](https://abdullahmou.github.io/reading-notes/read3) |
 |  CSS GRID |[read4](https://abdullahmou.github.io/reading-notes/read4)  |
 |  HEROKU  |[read5](https://abdullahmou.github.io/reading-notes/read5)|
-|          |[read6](https://abdullahmou.github.io/reading-notes/read6)     |
-|          |[read7](https://abdullahmou.github.io/reading-notes/read7)|
+|  node.js  |[read6](https://abdullahmou.github.io/reading-notes/read6)     |
+|  API keys  |[read7](https://abdullahmou.github.io/reading-notes/read7)|
 |          |  [read8](https://abdullahmou.github.io/reading-notes/read8) |
 |          |[read9](https://abdullahmou.github.io/reading-notes/read9)     |
 |          |[read10](https://abdullahmou.github.io/reading-notes/read10)     |
