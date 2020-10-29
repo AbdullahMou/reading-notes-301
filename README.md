@@ -14,7 +14,7 @@ this site for 301 - Intermediate Software Development
 |  node.js  |[read6](https://abdullahmou.github.io/reading-notes/read6)     |
 |  APIs keys  |[read7](https://abdullahmou.github.io/reading-notes/read7)|
 |  SQL  |  [read8](https://abdullahmou.github.io/reading-notes/read8) |
-|          |[read9](https://abdullahmou.github.io/reading-notes/read9)     |
+|  Refactoring |[read9](https://abdullahmou.github.io/reading-notes/read9)     |
 | CALL STACK|[read10](https://abdullahmou.github.io/reading-notes/read10)     |
 |          |[read11](https://abdullahmou.github.io/reading-notes/read11)     |
 |          |[read12](https://abdullahmou.github.io/reading-notes/read12)      |
