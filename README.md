@@ -15,7 +15,7 @@ this site for 301 - Intermediate Software Development
 |  APIs keys  |[read7](https://abdullahmou.github.io/reading-notes/read7)|
 |  SQL  |  [read8](https://abdullahmou.github.io/reading-notes/read8) |
 |          |[read9](https://abdullahmou.github.io/reading-notes/read9)     |
-|          |[read10](https://abdullahmou.github.io/reading-notes/read10)     |
+| CALL STACK|[read10](https://abdullahmou.github.io/reading-notes/read10)     |
 |          |[read11](https://abdullahmou.github.io/reading-notes/read11)     |
 |          |[read12](https://abdullahmou.github.io/reading-notes/read12)      |
 |          |[read13](https://abdullahmou.github.io/reading-notes/read13)     |
