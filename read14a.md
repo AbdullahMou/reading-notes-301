@@ -1,3 +1,6 @@
+[BACK](https://abdullahmou.github.io/reading-notes/)
+
+
 # Database Normalization
 
 ![](https://i.ytimg.com/vi/xoTyrdT9SZI/hqdefault.jpg)
