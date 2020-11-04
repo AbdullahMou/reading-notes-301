@@ -20,6 +20,5 @@ this site for 301 - Intermediate Software Development
 |  |[read12](https://abdullahmou.github.io/reading-notes/read12)      |
 | Sending form |[read13](https://abdullahmou.github.io/reading-notes/read13)     |
 | Normalization|[read14-a](https://abdullahmou.github.io/reading-notes/read14a)    |
-| APIs|[read14-b](https://abdullahmou.github.io/reading-notes/read14b)      |
-
 | |[read15](https://abdullahmou.github.io/reading-notes/read15)      |
+
